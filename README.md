@@ -13,3 +13,6 @@ bike sharingのデータだと、Londonのものが有名。
 - [ ] 並び替えてスナップショットを作成し、時間経過でのノード数/エッジ数を見る
 - [ ] GCCを時間経過でプロットする
 - [ ] Higher order structureを見る   
+
+## Ref
+https://www.perplexity.ai/search/2a0086cd-52f3-4d0f-8742-fefef8b5522a?s=c

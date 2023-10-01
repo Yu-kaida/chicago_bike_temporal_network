@@ -4,7 +4,7 @@
 railwayのデータだと、結局路線図の通りのネットワークでしかなく、weightedにする手法も浮かばなかったので、bike sharingのデータを使う。 
 ## Description
 bike sharingのデータだと、Londonのものが有名。
-諸外国での、bikeを使用した人の移動に地域差じみたものがあるのかどうかを検証する。
+
 
 ## Method
 `start_station_id`と`end_station_id`をノードとする。station間をバイクで移動したらエッジを結ぶ。
